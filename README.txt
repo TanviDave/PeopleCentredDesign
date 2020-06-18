@@ -7,3 +7,4 @@ multiple factors we come to decision  that Education group and RCE Sask working 
 I(Tanvi) have created the document for problem definition and shared it with Matthew for any changes or modification.
 After going into the problem definition, now it is time to create empathy mapping for this users,
 we both have discussed the rough "pen and paper" based model via virtually sharing my screen and then Matthew created the Empathy mapping.
+All low-fidelity and high-fidelity designs were the group tasks, where we both have had some multiple zoom meetings and we discussed every minute details
