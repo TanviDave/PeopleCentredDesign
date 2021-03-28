@@ -1,5 +1,5 @@
 This git-hub contains the information related to People centred design. 
-This is the subject being offeref at University of Regina in Summer/Spring 2020
+This is the subject being offered at University of Regina in Summer/Spring 2020
 Contribution in creating things so far:-
 Matthew and my self(Tanvi) have set up 2- virtual meetings in this last week and we managed to share our ideas with each other 
 and then we have had some discussion regarding which are the users that we should focus mainly on, and after taking into consideration 
